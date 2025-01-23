@@ -1,5 +1,4 @@
 # IMDB Movies Analysis using Python
-# IMDB Movie Dataset Data Analysis
 
 In this Python data analysis project, the IMDB Movie Dataset is explored to derive insights into various movie aspects. Essential Python libraries such as Pandas, Seaborn, and Matplotlib are employed for efficient data manipulation and visualization.
 
